@@ -1,4 +1,6 @@
 ## Django + Vue + ElementUI 前后分离项目
+### Before 
+ - 创建Git仓库
 ### Django Part
 
 ### Vue Part
